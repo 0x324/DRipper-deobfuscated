@@ -213,5 +213,3 @@ if __name__ == '__main__':
                 q.join()
         w.join()
 e.join()
-
-[Program finished]
